@@ -141,7 +141,7 @@
 
 .main__section-title {
   font-size: var(--font-size, 18px);
-  color: var(--title-color, #353430);
+  color: var(--menu-color, #353430);
 }
 
 .main__section-secondary-title {
