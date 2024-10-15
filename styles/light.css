@@ -1,3 +1,18 @@
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #fff1f7;
+    --accent-color: #ff8dcb;
+    --title-color: #353430;
+    --dark-color: #353430;
+    --menu-color: #353430;
+    --hover-border-color: rgba(50, 49, 45, 0.4);
+    --display-rec: none;
+    --heading-color: #ffc2e6;
+    --text-color: #353430;
+    background-image: url(../images/cover-image-light.png);
+  }
+} */
+
 .page.theme_light {
   --background-color: #fff1f7;
   --accent-color: #ff8dcb;
